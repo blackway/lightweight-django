@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'rest_framework.authtoken',
     # Internal apps
     'board',
+	'todo',
 )
 
 MIDDLEWARE_CLASSES = (
